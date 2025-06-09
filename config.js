@@ -1,12 +1,12 @@
-global.owner = ['62895331520602']  
-global.mods = ['62895331520602'] 
-global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
+global.owner = ['6285603256172']  
+global.mods = ['6285603256172'] 
+global.prems = ['6285603256172']
+global.nameowner = 'ℕ𝕚𝕩'
+global.numberowner = '6285603256172' 
 global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/I5RpePh2b5u37OyFjzCNTr'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.gc = '_'
+global.instagram = '_'
+global.wm = '© 𝙽𝚒𝚡'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -21,13 +21,13 @@ global.gcspam = false // Set true/false untuk menutup grup ketika spam (default:
     
 
 // APIKEY INI WAJIB DI ISI! //
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'S57o3LaE' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 
 
 // INI HANYA OPTIONAL SAJA BOLEH DI ISI BOLEH JUGA ENGGA //
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'Btz-3LtGs'
 //Daftar https://api.betabotz.eu.org 
 
 //Gausah diganti atau di ubah
